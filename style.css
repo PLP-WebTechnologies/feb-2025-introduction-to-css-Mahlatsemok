@@ -1,0 +1,51 @@
+body {
+ background: rgb(177, 87, 125);
+ font-family: "Boldonse", system-ui;
+}
+
+h1 {
+    color: white;
+    font-size: 80px;
+    margin: 30px;
+    font-weight: bold;
+}
+
+p {
+    color: whitesmoke;
+    font-size: 20px;
+    margin: 30px;
+}
+
+#head {
+    color: white;
+    font-size: 40px;
+    margin: 30px;
+    padding: 10px;
+}
+
+img {
+    width: 800px;
+    height: 500px;
+    display: block;
+    border: 20px solid palevioletred;
+    border-radius: 60%;
+    margin: 40px;
+    padding: 18px; 
+}
+
+span {
+    color: violet;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.submit {
+    background-color: violet;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    margin: 15px;
+    font-size: 30px;
+    padding: 10px;
+}
